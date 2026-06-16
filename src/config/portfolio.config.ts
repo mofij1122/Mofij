@@ -23,7 +23,7 @@ export const portfolioConfig: PortfolioConfig = {
     email: "mofijkhan2005@gmail.com",
     phone: "+91 89836 82415",
     profileImage: "/images/ppf.png",
-    resumeUrl: "/resume/Mofij_Khan_resume.pdf",
+    resumeUrl: "/resume/Mofij_Khan_CV.pdf",
   },
 
   social: {
