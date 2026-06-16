@@ -6,7 +6,7 @@ A modern and responsive personal portfolio website showcasing my skills, project
 
 Add your deployed Vercel link here:
 
-https://your-portfolio.vercel.app
+https://mofij.vercel.app
 
 ---
 
